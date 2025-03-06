@@ -1,4 +1,5 @@
-## Hi there 👋
+Hey there! I'm a full-stack developer at Resilient Coders. I live on the East coast, and I’m currently working on codewars practices. 
+💬 Ask me about me about anything! 
 
 <!--
 **slandieps/slandieps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
