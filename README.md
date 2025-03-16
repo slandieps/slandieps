@@ -1,4 +1,4 @@
-Hiii.. I'm a full-stack developer at Resilient Coders 💫 I live on the East coast but I'm from everywhere! 
+Hiii.. I'm a full-stack developer at Resilient Coders. I live on the East coast but I'm from everywhere! 💫💫💫
 💬 Ask me anything.
 
 <!--
