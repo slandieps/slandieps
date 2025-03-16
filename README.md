@@ -1,4 +1,5 @@
-Hiii.. I'm a full-stack developer at Resilient Coders. 💫💫💫 I live on the East coast but I'm from everywhere! 💬 Ask me anything.
+Hiii.. I'm a full-stack developer at Resilient Coders. 💫💫💫 
+I live on the East coast but I'm from everywhere! 💬 Ask me anything.
 
 <!--
 **slandieps/slandieps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
