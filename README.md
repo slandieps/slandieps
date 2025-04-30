@@ -1,5 +1,8 @@
-Hiii.. I'm a full-stack developer at Resilient Coders. I live on USA's East coast but I'm from everywhere!💫
-💫💫
+Hi, I'm Blu! ~``~
+
+My journey into tech started with a deep interest in how information is shared, preserved, and experienced. After studying liberal arts and working in art spaces, I realized that the challenge wasn’t just about access—it was about clarity in a world flooded with content. This sparked my transition into coding, where I now build tools designed for clarity, accessibility, and thoughtful engagement.
+
+When I’m not coding, I’m tasting life—through curiosity, creation, and and everyday exploration. 
 
 
 <!--
