@@ -4,7 +4,13 @@ My journey into tech started with a deep interest in how information is shared, 
 
 When I’m not coding, I’m tasting life — through curiosity, creation, and and everyday exploration.
 
-
+🛠️ Tech Stack
+https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png
+https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png
+https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png
+https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png
+https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png
+https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png
 <!--
 **slandieps/slandieps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
