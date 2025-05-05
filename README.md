@@ -1,13 +1,9 @@
 # 💫 About Me:
 Hi, I'm Blu! 🌱
-<br>
-<br>
+
 My journey into tech started with a deep interest in how information is shared, preserved, and experienced. After studying liberal arts and working in art spaces, I realized that the challenge wasn’t just about access—it was about clarity in a world flooded with content. This sparked my transition into coding, where I now build tools designed for clarity, accessibility, and thoughtful engagement.
 
-<br>
-<br>
 When I’m not coding, I’m tasting life — through curiosity, creation, and and everyday exploration.
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/slandieprinston) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/siilkcode) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:slandieps@gmail.com) 
