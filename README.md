@@ -5,6 +5,7 @@ My journey into tech started with a deep interest in how information is shared, 
 
 When I’m not coding, I’m tasting life — through curiosity, creation, and and everyday exploration.
 
+<center>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/slandieprinston) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/siilkcode) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:slandieps@gmail.com) 
 
@@ -15,3 +16,4 @@ When I’m not coding, I’m tasting life — through curiosity, creation, and a
 ![](https://github-readme-stats.vercel.app/api?username=slandieps&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=slandieps&theme=shadow_green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=slandieps&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+</center>
